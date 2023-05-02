@@ -1,0 +1,1 @@
+.shake-card:hover{animation:shake .5s;animation-iteration-count:infinite;cursor:pointer}.arrow .v-data-table-header__icon{opacity:1}@keyframes shake{0%,to{transform:rotate(-1deg)}50%{transform:rotate(1deg)}}
